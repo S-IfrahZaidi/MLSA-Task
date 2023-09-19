@@ -31,16 +31,16 @@ const imageAltText = "desktop";
  */
 const projectList = [
   {
-    title: "My first Static Web App 🎉",
+    title: "Twitter Page",
     description:
-      "this is my technical onboarding website.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "follow me for latest updates",
+    url: "https://twitter.com/SIfrahZaidi",
   },
   {
-    title: "Onboarding for Beta Milestone",
+    title: "Facebook Profile",
     description:
-      "excited to do my technical onboarding.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "follow me on facebook",
+    url: "https://www.facebook.com/sIfrahZaidi ",
   },
   {
     title: "Linkedin Site",
@@ -49,7 +49,7 @@ const projectList = [
     url: "https://www.linkedin.com/in/syeda-ifrah-zaidi-716b0026a/",
   },
   {
-    title: "my GitHub account",
+    title: "GitHub Account",
     description:
       "follow me up on github.",
     url: "https://github.com/S-IfrahZaidi",
